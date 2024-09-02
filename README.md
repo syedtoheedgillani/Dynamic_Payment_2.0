@@ -30,4 +30,4 @@ ProLMS Plugin
 
 **Usage:**
 
-Implementing the Dynamic Payment plugin is straightforward. Consult the provided documentation to seamlessly integrate the plugin into your Moodle instance. Configure the plugin settings to align with your billing cycle, and let the automated proration mechanism handle fair and accurate billing.
+Implementing the Dynamic Payment plugin is straightforward. To obtain the code, feel free to reach out to me on [Upwork](https://www.upwork.com/freelancers/~0188ff047bab91ab3c). Configure the plugin settings to align with your billing cycle, and let the automated proration mechanism handle fair and accurate billing.
